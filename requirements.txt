@@ -1,0 +1,16 @@
+<<<<<<< HEAD
+streamlit
+pandas
+numpy
+openpyxl
+plotly
+matplotlib
+reportlab
+=======
+streamlit
+pandas
+numpy
+openpyxl
+plotly
+matplotlib
+>>>>>>> b37acafea4ae0007def6f83e377232d9656042ca
