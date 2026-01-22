@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 📊 Student Mark Analysis Dashboard
 
 An interactive dashboard built with **Streamlit** and **Plotly** to analyze student marks from Excel files.
